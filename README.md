@@ -260,9 +260,9 @@
     <div class="section contact-info">
         <h4 class="section-title">🤝 サービス対象者</h4>
         <ul>
-            <li>障がい者（身体障がい　知的障がい、精神障がいをお持ちの方）</li>
+            <li>身体障がい　知的障がい、精神障がいをお持ちの方）</li>
             <li>就労経験がある方で一般企業に雇用されることが困難な方</li>
-            
+             <li>就労継続支援B型の利用が判断される方</li>
         </ul>
        
         <h4 class="section-title">📍 サービス提供地域</h4>
